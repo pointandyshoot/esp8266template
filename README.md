@@ -1,4 +1,4 @@
-# esp8266template
+# ESP8266 Arduino sketch template
 Arduino sketch template for ESP8266, start your project with OTA, Wifi configuration and Adafruit IO already set up.
 Get to programming your project faster!
 
